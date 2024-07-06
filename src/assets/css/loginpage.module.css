@@ -1,0 +1,19 @@
+.pageContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.loginContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    gap: 10px;
+}
+
+.registerContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    gap: 10px;
+}
